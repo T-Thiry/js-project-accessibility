@@ -282,6 +282,10 @@ input[type="radio"]:focus-visible+label {
   color: red; 
 }
 
+.error-container {
+  margin-top: 2rem;
+}
+
 /* Submit button Jasmin commented out because we now have it as a nav button
 .form-controls {
   margin-top: 2rem;
